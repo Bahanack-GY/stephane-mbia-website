@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="90" fill="#E60000" stroke="#00AEEF" stroke-width="10"/>
+  <text x="50%" y="55%" font-family="Arial" font-size="80" font-weight="bold" fill="#00AEEF" text-anchor="middle" dominant-baseline="middle">TS</text>
+  <path d="M50,160 Q100,200 150,160" fill="none" stroke="#00AEEF" stroke-width="10"/>
+</svg>
