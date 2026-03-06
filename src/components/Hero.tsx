@@ -161,7 +161,7 @@ export default function Hero() {
         <div className="absolute inset-0 z-0 pointer-events-none">
           {/* Step 0: stephane MBIA */}
           <div className="scroll-text-0 absolute inset-0 flex items-center justify-between px-8 md:px-24 opacity-0 font-heading font-bold text-brand-text/10 tracking-tighter whitespace-nowrap">
-            <span className="text-6xl md:text-[8rem] xl:text-[12rem]">stephane</span>
+            <span className="text-6xl md:text-[8rem] xl:text-[12rem]">STEPHANE</span>
             <span className="text-6xl md:text-[8rem] xl:text-[12rem]">MBIA</span>
           </div>
 
