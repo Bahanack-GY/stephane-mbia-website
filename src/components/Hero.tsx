@@ -110,7 +110,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
           className="text-6xl md:text-8xl lg:text-[10rem] font-heading font-medium mb-8 leading-[0.9] tracking-tight text-brand-text whitespace-nowrap"
         >
-          stephane <br />
+          STEPHANE <br />
           <span className="block mt-2 text-brand-accent italic font-medium pr-8 relative z-10 text-glow">MBIA</span>
         </motion.h1>
 
