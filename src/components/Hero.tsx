@@ -47,7 +47,7 @@ export default function Hero() {
       }, 0);
 
       // Text Sequence
-      // Step 0: STEPHAN MBIA
+      // Step 0: stephane MBIA
       tl.fromTo(".scroll-text-0", { opacity: 0, y: 50 }, { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" }, 0.2);
       
       // Step 1: Exit Step 0, Enter Football (Left) AND Immobilier (Right)
@@ -110,7 +110,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
           className="text-6xl md:text-8xl lg:text-[10rem] font-heading font-medium mb-8 leading-[0.9] tracking-tight text-brand-text whitespace-nowrap"
         >
-          STEPHAN <br />
+          stephane <br />
           <span className="block mt-2 text-brand-accent italic font-medium pr-8 relative z-10 text-glow">MBIA</span>
         </motion.h1>
 
@@ -159,9 +159,9 @@ export default function Hero() {
         
         {/* Animated Background Texts Sequence */}
         <div className="absolute inset-0 z-0 pointer-events-none">
-          {/* Step 0: STEPHAN MBIA */}
+          {/* Step 0: stephane MBIA */}
           <div className="scroll-text-0 absolute inset-0 flex items-center justify-between px-8 md:px-24 opacity-0 font-heading font-bold text-brand-text/10 tracking-tighter whitespace-nowrap">
-            <span className="text-6xl md:text-[8rem] xl:text-[12rem]">STEPHAN</span>
+            <span className="text-6xl md:text-[8rem] xl:text-[12rem]">stephane</span>
             <span className="text-6xl md:text-[8rem] xl:text-[12rem]">MBIA</span>
           </div>
 
@@ -216,7 +216,7 @@ export default function Hero() {
         <img
           ref={imageRef}
           src={portraitImage}
-          alt="Stephan Mbia Portrait"
+          alt="stephane Mbia Portrait"
           className="w-auto h-[90vh] object-cover object-top relative z-10"
           style={{
             transform: "translateY(100%) scale(0.8)", // start below viewport, slightly larger base
